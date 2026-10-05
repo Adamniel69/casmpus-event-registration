@@ -1,0 +1,1 @@
+# casmpus-event-registration
